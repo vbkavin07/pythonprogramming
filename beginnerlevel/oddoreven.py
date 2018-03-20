@@ -1,5 +1,5 @@
 a=input()
-if(a%2)==0:
-	print("even")
-else:
+if(a&1)==1:
 	print("odd")
+else:
+	print("even")
