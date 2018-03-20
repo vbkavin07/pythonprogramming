@@ -1,8 +1,5 @@
 a=input()
-if isinstance(a,str):
-    print("string is not allowed")
+if(a%2)==0:
+	print("even")
 else:
-    if (a%2==0):
-        print("even")
-    else:
-        print("odd")
+	print("odd")
