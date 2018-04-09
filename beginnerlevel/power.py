@@ -1,3 +1,3 @@
-a=input()
-b=input()
-print(a**b)
+n=input()
+p=input()
+print(n**p)
