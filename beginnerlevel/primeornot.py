@@ -5,8 +5,8 @@ if(a<1000):
 	    if(a%i==0):
 	        k=k+1
 	if(k<=0):
-	    print("Number is prime")
+	    print("yes")
 	else:
-	    print("Number isn't prime")
+	    print("not prime")
 else:
 	print("no")
